@@ -1,0 +1,223 @@
+figcaption {
+    position: absolute;
+    top: 2rem;
+    margin: 0 2rem;
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+}
+.contactH3{
+    margin-top: 15%;
+}
+body{
+    font-size: 16px;
+}
+#navLink{
+    margin-right: 20px;
+}
+#navLinkLast{
+    margin-left: 20px;
+}
+#car{
+    height: 600px;
+    width: 100%;
+}
+Table{
+    list-style-type: none;
+    border: none;
+    color:white;
+}
+.trFooter{
+    list-style-type: none;
+    border: none;
+    color: white;
+    text-align: center;
+}
+#borderH1{
+    border-bottom: 5px solid white;
+    margin-left: 43%;
+}
+#borderH1Home{
+    border-bottom: 5px solid white;
+    margin-left: 43%;
+}
+#borderH1About{
+    border-bottom: 5px solid white;
+    margin-left: 49%;
+    width: 2%;  
+}
+.tdFooter{
+    border: none;
+    list-style-type:none;
+    font-family: 'PT Serif', serif;
+    text-decoration: none;
+}
+#linkTdFooter{
+    text-decoration: none;
+    color: white;
+}
+#carThumbnail{
+    width: 100%;
+    padding: 5px;
+    overflow-wrap: break-word;
+}
+.carThumbnailParagraf{
+    font-size: 1.1rem;
+    padding: 2px;
+    height: max-content;
+}
+#containerContact{
+    background: url('../images/contactBaner.jpg') black center no-repeat;
+    background-size: cover;
+    color: white;
+    margin-bottom: 5%;
+    max-height: 100%;
+}
+#contactRootDiv{
+    overflow-wrap: break-word;
+    height: 100%;
+}
+#homeBaner{
+    background: url('../images/baner.jpg') black center no-repeat;
+    background-size: cover;
+    color: white;
+}
+#homeRow{
+    text-align: center;
+    margin-left: 13%;
+    --bs-gutter-x: 0;
+}
+.buttonmail{
+    margin-bottom: 12%;
+    background-color: transparent;
+    border: 5px solid grey;
+    margin-top: 5%;
+}
+#buttonHome{
+    margin-bottom: 4%;
+    width: 45%;
+    margin-top: 2%;
+    border-radius: 15%;
+    font-size: 1.7rem;
+    padding: 5px;
+    background-color: transparent;
+    border: 4px solid grey;
+}
+#thumbnailHome{
+    background-color: transparent;
+    overflow-wrap: break-word;
+    min-height: 25%;
+}
+.carThumbnailParagrafBMW{
+    font-size: 1.1rem;
+    padding: 2px;
+  height: max-content;
+}
+#carAbout{
+    height: 300px;
+}
+.Header{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 5%;
+}
+#paragrafBaner {
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    font-size: 1.1rem;
+}
+#paragrafAbout{
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    margin-top: 2%;
+}
+#paragrafDwaBaner {
+    float: left;
+    margin-top: 3%;
+    font-family: 'PT Serif', serif;
+    font-size: 1.4rem;
+}
+#footerContainer{
+    background-color: black;
+    color:white;
+    width: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 1.3rem;
+}
+.thumbnailAboutParagraf{
+    font-family: 'PT Serif', serif;
+    font-size: 1rem;
+}
+.thumbnailParagrafH{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    padding: 9px;
+}
+.tbodyFooter{
+    text-decoration-line: none;
+}
+.HeaderAbout{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 0%;
+}
+.contactH1{
+    font-family: 'Oswald', sans-serif; 
+}
+.contactH1Contact{
+    font-family: 'Oswald', sans-serif; 
+    color: black;
+}
+#col10Contact{
+    height: 100%;
+    text-align: center;
+}
+.borderH1Contact{
+    width: 5%;
+}
+.paragrafContact{
+    font-family: 'PT Serif', serif; 
+}
+#rowContact{
+    --bs-gutter-x: 0;
+}
+.buttonContact{
+    margin-bottom: 5%;
+}
+#footerTdLinks{
+    text-decoration: none;
+    color: white;
+}
+form{
+    font-family: 'PT Serif', serif; 
+}
+.h2Footer{
+    font-family: 'Oswald', sans-serif; 
+}
+.container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#containerAbout{
+    background: url('../images/aboutBaner2.jpg') black center no-repeat;
+    background-size: cover;
+    color: white; 
+}
+#thumbnailAbout{
+    background-color: transparent;
+    padding: 2%;
+    color: white;
+    line-height: 95%;
+    margin-bottom: 5%;
+    width: 95%;
+    margin-left: 15px;
+}
+#rowAbout{
+    --bs-gutter-x: 0;
+}
+#buttonThumbnailAbout{
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border: 5px solid grey;
+}

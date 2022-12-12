@@ -12,7 +12,7 @@ export const Home = () => {
                  <Container fluid id="homeBaner">
                  <div className="row" id="homeRow">
                  <div className="col-10">
-      <h1 className="Header">  WsBCars z nami dojedziesz bezpieczniej !</h1>
+      <h1 className="Header">  WseaCars z nami dojedziesz bezpieczniej !</h1>
       <div className="col-2" id="borderH1Home"></div>
         <p className="col-12" id="paragrafBaner">Jest nam niezmiernie miło że, odwiedzasz naszą stronę. Posiadamy w ofercie bogatą flotę pojazdów które na pewno Cię zainteresują !</p>
         <div className="row text-center">

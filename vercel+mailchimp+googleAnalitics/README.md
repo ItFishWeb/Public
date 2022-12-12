@@ -1,2 +1,0 @@
-# ProjektZespol-masterAkt
- Aktualizacja
